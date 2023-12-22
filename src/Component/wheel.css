@@ -1,0 +1,7 @@
+.wheel-container {
+  display: flex;
+  place-items: center;
+  width: 70%;
+  margin: auto;
+  height: 588px;
+}
